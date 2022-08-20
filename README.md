@@ -24,3 +24,8 @@
 # Result Page Screenshots :
 ![Congratulations Page](https://user-images.githubusercontent.com/91545371/185747050-46dd4dc3-4f15-488c-9246-88071a495b88.jpg)
 
+# Tutorial Video :
+https://drive.google.com/file/d/1yC5TfIm3IXtqiJEjEAgWXD4KGEr3g4GB/view?usp=sharing
+
+# Connect:
+Reach out to me at panditsamik25@gmail.com
