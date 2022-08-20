@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#FFDEB4"
+    tools:context=".MainActivity2">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Q. Garampani sanctuary is located at"
+        android:textColor="#F10606"
+        android:textSize="22sp" />
+
+    <ImageView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/img"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+         />
+
+
+    <Button
+        android:id="@+id/OptionA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="5dp"
+        android:backgroundTint="#FF4949"
+        android:padding="7dp"
+        android:text=" A.  Junagarh, Gujarat "
+        android:textSize="20sp"
+        app:cornerRadius="10dp" />
+
+    <Button
+        android:id="@+id/OptionB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="5dp"
+        android:backgroundTint="#FF4949"
+        android:padding="7dp"
+        android:text=" B.	Diphu, Assam "
+        android:textSize="20sp"
+        app:cornerRadius="10dp" />
+
+    <Button
+        android:id="@+id/OptionC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="5dp"
+        android:backgroundTint="#FF4949"
+        android:padding="7dp"
+        android:text=" C.	Kohima, Nagaland "
+        android:textSize="20sp"
+        app:cornerRadius="10dp" />
+
+    <Button
+        android:id="@+id/OptionD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="5dp"
+        android:backgroundTint="#FF4949"
+        android:padding="7dp"
+        android:text=" D.	Gangtok, Sikkim "
+        android:textSize="20sp"
+        app:cornerRadius="10dp" />
+
+    <Button
+        android:id="@+id/Next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="5dp"
+        android:backgroundTint="#510019"
+        android:padding="11dp"
+        android:text="NEXT"
+        android:textSize="20sp"
+        app:cornerRadius="10dp" />
+
+</LinearLayout>
