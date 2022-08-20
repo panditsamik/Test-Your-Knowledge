@@ -1,12 +1,12 @@
 # Test-Your-Knowledge
 
 # Introduction : 
-QuizApp is an android based application, and enables the user to undertake a series of questions on Kotlin language.
-You can only enter the Quiz Round when you enter a Valid Name,otherwise it will be showing error.
-The app is user friendly, and the user shall find it extremely easy to answer the multiple-choice questions.
-The topics are General Knowledge Questions and Idea about Places, some Science related Questions are also there.
-At the end of the quiz, a result is generated which states the score.
-Supported on all Android Devices till Android Version 11.0.0
+-> QuizApp is an android based application, and enables the user to undertake a series of questions on Kotlin language.
+-> You can only enter the Quiz Round when you enter a Valid Name,otherwise it will be showing error.
+-> The app is user friendly, and the user shall find it extremely easy to answer the multiple-choice questions.
+-> The topics are General Knowledge Questions and Idea about Places, some Science related Questions are also there.
+->At the end of the quiz, a result is generated which states the score.
+-> Supported on all Android Devices till Android Version 11.0.0
 
 # Start Page Screenshots :
 ![Start (b)](https://user-images.githubusercontent.com/91545371/185746937-5f07657b-3cd3-4499-880b-411b9410c65b.jpg)
