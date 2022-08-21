@@ -9,7 +9,7 @@
 
 -> The topics are General Knowledge Questions and Idea about Places, some Science related Questions are also there.
 
-->At the end of the quiz, a result is generated which states the score.
+-> At the end of the quiz, a result is generated which states the score.
 
 -> Supported on all Android Devices till Android Version 11.0.0
 
